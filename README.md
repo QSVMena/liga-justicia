@@ -8,4 +8,4 @@ Pueden hacer lo que quieran...
 
 # Nota 2: 
 
-Esto es una actualizacion desde GITHUB
+Esto es un conflicto desde mi gitub
