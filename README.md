@@ -9,3 +9,4 @@ Pueden hacer lo que quieran...
 # Nota 2: 
 
 Esto es una actualizacion desde mi repositorio local
+Esto es un conflicto desde mi gitub
